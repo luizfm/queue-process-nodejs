@@ -1,0 +1,11 @@
+{
+  "name": "queue-processes-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "v4": "^0.0.1"
+  }
+}
